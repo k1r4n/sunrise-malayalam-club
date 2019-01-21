@@ -160,7 +160,11 @@ body {
 #body ul.gallery li {
 	float: left;
 	margin: 0 0 5% 5%;
-	width: 42%;
+	width: 100%;
+}
+#body .gallery li img {
+	width: 100%;
+	height: 100%;
 }
 #body > ul li a img {
 	width: 98%;
